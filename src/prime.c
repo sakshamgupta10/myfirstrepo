@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Program to identify and print prime numbers from an array
+
 int main() {
     int n;
     printf("Enter size of array: ");
